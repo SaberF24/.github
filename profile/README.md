@@ -2,7 +2,7 @@
 
 # 💥 Aspiring Disruptor | Coding for Climate Justice & Collective Liberation for All  
 
-### Mission:
+### ⚡ Mission:
 **I build (and break) systems to dismantle oppression, uplift marginalized voices,**  
 **and fight for a world where *clean air, love, and community* are human rights — not privileges.**
 
