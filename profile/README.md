@@ -23,14 +23,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### 🔭 Working On
-- A NoSQL Database Application
-- A degree in Information and Knowledge Systems, majoring in Data Science
+- Harvard Data Science short course
+- Using data visualisation techniques for marine conservation
 
 ### 🌱 Currently Learning  
-- Node.js
-- Docker
-- AI basics
-- Networking Protocols  
+- Pandas
+- Data analysis in ecology
 
 ### 📫 Let's Connect!  
 - [![Email](https://img.shields.io/badge/Email-sgfreeman24@gmail.com-D14836?logo=gmail)](mailto:sgfreeman24@gmail.com)
